@@ -17,7 +17,7 @@
     <item>
       <title>Test</title>
       <description>Test</description>
-      <enclosure url="https://s3.us-east-2.wasabisys.com/cosmonaut-podcasts/Test.mp3" length="60" type="audio/mpeg"/>
+      <enclosure url="https://s3.us-east-2.wasabisys.com/cosmonaut-podcasts/Test.mp3" length="1472625" type="audio/mpeg"/>
       <guid isPermaLink="false">20240504</guid>
       <pubDate>Wed, 1 Oct 2025 8:00:00 EST</pubDate>
       <itunes:explicit>false</itunes:explicit>
