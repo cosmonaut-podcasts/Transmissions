@@ -7,9 +7,9 @@
     <itunes:author>Cosmonaut Podcasts</itunes:author>
     <description>A podcast that explores poetry, literature, and classical music.</description>
     <language>en-us</language>
-    <itunes:image href="https://cosmonaut-podcasts.s3.us-east-2.wasabisys.com/transmissions-cover-art.png"/>
+    <itunes:image href="https://cosmonaut-podcasts.s3.us-east-2.wasabisys.com/transmissions-cover-art.jpg"/>
     <itunes:block>Yes</itunes:block>
     <lastBuildDate>Wed, 1 Oct 2025 8:00:00 EST</lastBuildDate>
-
+    
   </channel>
 </rss>
