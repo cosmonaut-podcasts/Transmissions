@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
 
+    <title>Transmissions</title>
+    <link>https://cosmonaut-podcasts.github.io/Transmissions/</link>
+    <itunes:author>Cosmonaut Podcasts</itunes:author>
+    <description>A podcast that explores poetry, literature, and classical music.</description>
+    <language>en-us</language>
+    <itunes:image href="https://cosmonaut-podcasts.s3.us-east-2.wasabisys.com/transmissions-cover-art.png"/>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Wed, 1 Oct 2025 8:00:00 EST</lastBuildDate>
+
+  </channel>
+</rss>
