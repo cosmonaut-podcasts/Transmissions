@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
 
     <title>Transmissions</title>
@@ -10,7 +10,8 @@
     <itunes:image href="https://cosmonaut-podcasts.s3.us-east-2.wasabisys.com/transmissions-cover-art.jpg"/>
     <itunes:block>Yes</itunes:block>
     <itunes:category text="Art" />
+    <itunes:explicit>false</itunes:explicit>
     <lastBuildDate>Wed, 1 Oct 2025 8:00:00 EST</lastBuildDate>
-    
+
   </channel>
 </rss>
